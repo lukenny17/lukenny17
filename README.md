@@ -12,7 +12,7 @@ Hi, I'm Luke Kenny, an MSc Computer Science graduate with Distinction and over t
   - Responsive UI for mobile and desktop
   - Asynchronous email notifications
   - Unit and integration testing
-- [View Project]([#](https://github.com/lukenny17/GarageApp))
+- [View Project]([#](https://github.com/lukenny17/GarageApp)
 
 ### 2. Portfolio Website
 - **Description:** A personal portfolio website designed to showcase my projects, skills, and background. Developed using Laravel to reinforce my understanding of MVC architecture and streamline the process of uploading images and project information.
