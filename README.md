@@ -1,6 +1,6 @@
 # Luke Kenny's GitHub Portfolio
 
-Hi, I'm Luke Kenny, an MSc Computer Science graduate with Distinction and over ten years of experience in transport planning. I’m eager to learn, grow, and collaborate as I embark on a new career in software development or a related field.
+Hi, I'm Luke Kenny, an MSc Computer Science graduate with Distinction and over ten years of experience in transport planning. I’m eager to learn, grow, and collaborate as I embark on a new career in cyber security, software development or a related field.
 
 ## Projects
 
